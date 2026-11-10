@@ -1,0 +1,4 @@
+interface:
+  display_name: "换位思考"
+  short_description: "互换人物、动物与物体的位置、大小和姿势，保留各自外貌和装扮"
+  default_prompt: "使用 $swap-image-subjects 编辑这张图片，让我指定的两个主体互换位置、大小、透视和姿势，并保留各自的外貌、服装与配饰。"
